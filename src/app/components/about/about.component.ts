@@ -23,10 +23,10 @@ export class AboutComponent {
   firstName = 'Aditya';
   
   aboutDescription = `
-    I'm a passionate <strong>Full Stack Developer</strong> with over 3 years of experience building 
-    <strong>scalable web applications</strong> and <strong>modern user interfaces</strong>. 
-    I specialize in <strong>Angular</strong>, <strong>React</strong>, and <strong>Node.js</strong>, 
-    with a strong focus on creating <strong>exceptional user experiences</strong> and 
-    <strong>clean, maintainable code</strong>.
+    I'm a passionate <strong>Software Engineering Intern</strong> at <strong>CRIF Solutions</strong> with expertise in 
+    <strong>Java</strong>, <strong>Angular</strong>, and <strong>full-stack development</strong>. 
+    I specialize in <strong>ETL data pipelines</strong>, <strong>SaaS applications</strong>, and <strong>machine learning</strong>, 
+    with a strong focus on creating <strong>robust, scalable solutions</strong> and 
+    <strong>high-quality, test-driven code</strong>.
   `;
 }

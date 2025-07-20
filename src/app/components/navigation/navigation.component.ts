@@ -41,7 +41,7 @@ import { CommonModule } from '@angular/common';
   styles: []
 })
 export class NavigationComponent {
-  name = 'Aditya Sharma';
+  name = 'Aditya Kumar Gupta';
   isMobileMenuOpen = false;
 
   toggleMobileMenu() {

@@ -35,9 +35,9 @@ import { CommonModule } from '@angular/common';
   styles: []
 })
 export class HeaderComponent {
-  name = 'Aditya Sharma';
+  name = 'Aditya Kumar Gupta';
   tagline = 'Full Stack Developer & Software Engineer';
-  profileImage = 'https://via.placeholder.com/300x300/667eea/ffffff?text=AS';
-  linkedinUrl = 'https://linkedin.com/in/aditya-sharma';
-  resumeUrl = 'https://example.com/resume.pdf';
+  profileImage = 'assets/PP.jpg';
+  linkedinUrl = 'https://www.linkedin.com/in/guptakraditya/';
+  resumeUrl = 'https://drive.google.com/file/d/15y60WXDBMSGtS5dcQ7m9umVpBc0iJfHz/view?usp=sharing';
 }

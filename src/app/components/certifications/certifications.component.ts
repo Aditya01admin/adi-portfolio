@@ -21,8 +21,9 @@ import { CommonModule } from '@angular/common';
 })
 export class CertificationsComponent {
   certificationsText = `
-    I hold certifications in <strong>AWS Cloud Practitioner</strong>, 
-    <strong>Google Analytics</strong>, and <strong>Angular Development</strong>. 
+    I hold certifications including <strong>AWS Certified Solutions Architect - Amazon Web Services, 2024</strong>, 
+    <strong>Java Full Stack Developer Certification – Wipro Talent Next, 2023</strong>, and 
+    <strong>TypeScript & Angular - Infosys Springboard, 2022</strong>. 
     I'm committed to continuous learning and staying updated with the latest technologies.
   `;
 }

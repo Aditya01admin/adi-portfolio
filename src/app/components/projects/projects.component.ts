@@ -44,28 +44,22 @@ export interface Project {
 export class ProjectsComponent {
   projects: Project[] = [
     {
-      title: 'E-Commerce Platform',
-      description: 'A full-featured e-commerce platform with user authentication, payment integration, and admin dashboard.',
-      technologies: ['Angular', 'Node.js', 'MongoDB', 'Stripe'],
-      url: 'https://github.com/aditya/ecommerce-platform'
+      title: 'Intrusion Detection System',
+      description: 'Built a model for intrusion detection system that can check for any intruders in the system. Used algorithms like KNN, Decision Tree, Logistic Regression to find a suitable algorithm for the model.',
+      technologies: ['Python', 'Machine Learning', 'KNN', 'Decision Tree', 'Logistic Regression'],
+      url: 'https://github.com/Aditya01admin/intrusion-detection'
     },
     {
-      title: 'Task Management App',
-      description: 'A collaborative task management application with real-time updates and team collaboration features.',
-      technologies: ['React', 'Firebase', 'Material-UI', 'Socket.io'],
-      url: 'https://github.com/aditya/task-manager'
-    },
-    {
-      title: 'Weather Dashboard',
-      description: 'A responsive weather dashboard with location-based forecasts and interactive charts.',
-      technologies: ['Vue.js', 'Chart.js', 'OpenWeather API', 'Tailwind'],
-      url: 'https://github.com/aditya/weather-dashboard'
+      title: 'Flutter Voice Assistant using ChatGPT & Dall-E',
+      description: 'Led project planning and coordination efforts. Implemented seamless integration of Chat-GPT and DALL-E APIs, enhancing the voice assistant\'s interactive and creative capabilities.',
+      technologies: ['Dart', 'Flutter', 'OpenAI API', 'ChatGPT', 'DALL-E'],
+      url: 'https://github.com/Aditya01admin/flutter-voice-assistant'
     },
     {
       title: 'Portfolio Website',
-      description: 'A modern, responsive portfolio website built with Angular and TailwindCSS.',
+      description: 'A modern, responsive portfolio website built with Angular and TailwindCSS featuring component-based architecture.',
       technologies: ['Angular', 'TailwindCSS', 'TypeScript'],
-      url: 'https://github.com/aditya/portfolio'
+      url: 'https://github.com/Aditya01admin/adi-portfolio'
     }
   ];
 }

@@ -20,5 +20,5 @@ import { CommonModule } from '@angular/common';
   styles: []
 })
 export class FooterComponent {
-  name = 'Aditya Sharma';
+  name = 'Aditya Kumar Gupta';
 }

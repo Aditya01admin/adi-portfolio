@@ -49,28 +49,12 @@ export interface Experience {
 export class ExperienceComponent {
   experiences: Experience[] = [
     {
-      company: 'Tech Solutions Inc.',
-      logo: 'https://via.placeholder.com/48x48/3b82f6/ffffff?text=TS',
-      position: 'Senior Frontend Developer',
-      duration: 'Jan 2022 - Present',
-      description: 'Led development of responsive web applications using Angular and React. Collaborated with cross-functional teams to deliver high-quality software solutions.',
-      tags: ['Angular', 'React', 'TypeScript', 'Node.js', 'AWS']
-    },
-    {
-      company: 'Digital Innovations Ltd.',
-      logo: 'https://via.placeholder.com/48x48/10b981/ffffff?text=DI',
-      position: 'Full Stack Developer',
-      duration: 'Jun 2020 - Dec 2021',
-      description: 'Developed and maintained full-stack applications. Implemented RESTful APIs and integrated third-party services.',
-      tags: ['JavaScript', 'Python', 'MongoDB', 'Express.js', 'Docker']
-    },
-    {
-      company: 'StartUp Ventures',
-      logo: 'https://via.placeholder.com/48x48/f59e0b/ffffff?text=SV',
-      position: 'Junior Developer',
-      duration: 'Jan 2020 - May 2020',
-      description: 'Contributed to various web development projects and learned modern development practices.',
-      tags: ['HTML', 'CSS', 'JavaScript', 'Git', 'Agile']
+      company: 'CRIF Solutions',
+      logo: 'https://via.placeholder.com/48x48/1e40af/ffffff?text=CRIF',
+      position: 'Software Engineering Intern',
+      duration: 'Sep 2024 – Present',
+      description: 'Working on CIMB ETL Data Pipeline: Achieved over 85% unit test coverage for mission-critical Java ETL pipeline using JUnit and JaCoCo. Eliminated critical data corruption risks in financial reporting. Working on CHRONO SaaS Data Mapping Tool: Reduced client onboarding engineering effort by 75% by delivering a self-service, automated data-mapping platform using Angular.',
+      tags: ['Java', 'Angular', 'JUnit', 'JaCoCo', 'SonarQube', 'ETL', 'CI/CD']
     }
   ];
 }

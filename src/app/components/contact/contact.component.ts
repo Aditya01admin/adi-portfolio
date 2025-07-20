@@ -30,8 +30,8 @@ import { CommonModule } from '@angular/common';
   styles: []
 })
 export class ContactComponent {
-  email = 'aditya@example.com';
-  linkedinUrl = 'https://linkedin.com/in/aditya-sharma';
-  githubUrl = 'https://github.com/aditya-sharma';
-  twitterUrl = 'https://twitter.com/aditya_sharma';
+  email = 'adi20001gupta@gmail.com';
+  linkedinUrl = 'https://www.linkedin.com/in/guptakraditya/';
+  githubUrl = 'https://github.com/Aditya01admin';
+  twitterUrl = 'https://twitter.com/aditya_gupta';
 }

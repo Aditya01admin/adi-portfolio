@@ -32,17 +32,17 @@ export interface Skill {
 })
 export class SkillsComponent {
   skills: Skill[] = [
+    { name: 'C++', icon: 'fas fa-code', color: '#00599C' },
+    { name: 'Java', icon: 'fab fa-java', color: '#ED8B00' },
     { name: 'JavaScript', icon: 'fab fa-js-square', color: '#f7df1e' },
-    { name: 'Angular', icon: 'fab fa-angular', color: '#dd0031' },
-    { name: 'React', icon: 'fab fa-react', color: '#61dafb' },
-    { name: 'Node.js', icon: 'fab fa-node-js', color: '#339933' },
-    { name: 'Python', icon: 'fab fa-python', color: '#3776ab' },
     { name: 'TypeScript', icon: 'fas fa-code', color: '#3178c6' },
     { name: 'HTML5', icon: 'fab fa-html5', color: '#e34f26' },
     { name: 'CSS3', icon: 'fab fa-css3-alt', color: '#1572b6' },
-    { name: 'Git', icon: 'fab fa-git-alt', color: '#f05032' },
-    { name: 'AWS', icon: 'fab fa-aws', color: '#ff9900' },
+    { name: 'SpringBoot', icon: 'fas fa-leaf', color: '#6DB33F' },
+    { name: 'Angular', icon: 'fab fa-angular', color: '#dd0031' },
+    { name: 'SQL', icon: 'fas fa-database', color: '#336791' },
     { name: 'Docker', icon: 'fab fa-docker', color: '#2496ed' },
-    { name: 'MongoDB', icon: 'fas fa-database', color: '#47a248' }
+    { name: 'Git', icon: 'fab fa-git-alt', color: '#f05032' },
+    { name: 'AWS', icon: 'fab fa-aws', color: '#ff9900' }
   ];
 }
