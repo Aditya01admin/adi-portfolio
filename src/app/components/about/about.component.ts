@@ -23,10 +23,10 @@ export class AboutComponent {
   firstName = 'Aditya';
   
   aboutDescription = `
-    I'm a passionate <strong>Software Engineering Intern</strong> at <strong>CRIF Solutions</strong> with expertise in 
-    <strong>Java</strong>, <strong>Angular</strong>, and <strong>full-stack development</strong>. 
-    I specialize in <strong>ETL data pipelines</strong>, <strong>SaaS applications</strong>, and <strong>machine learning</strong>, 
-    with a strong focus on creating <strong>robust, scalable solutions</strong> and 
-    <strong>high-quality, test-driven code</strong>.
+    I am a <strong>software engineer</strong> who builds <strong>commercial products</strong> and makes <strong>critical systems reliable</strong>. 
+    With expertise in <strong>Angular</strong>, <strong>Java</strong>, and <strong>Spring Boot</strong>, I have a proven record of 
+    <strong>automating processes</strong>, creating <strong>new revenue streams</strong>, and ensuring <strong>data integrity</strong> 
+    for multi-national financial platforms. I build software that <strong>empowers users</strong> and delivers 
+    <strong>measurable business results</strong>.
   `;
 }

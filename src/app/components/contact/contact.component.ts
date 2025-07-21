@@ -33,5 +33,5 @@ export class ContactComponent {
   email = 'adi20001gupta@gmail.com';
   linkedinUrl = 'https://www.linkedin.com/in/guptakraditya/';
   githubUrl = 'https://github.com/Aditya01admin';
-  twitterUrl = 'https://twitter.com/aditya_gupta';
+  twitterUrl = 'https://x.com/ADITYA_K_Gupta_';
 }
